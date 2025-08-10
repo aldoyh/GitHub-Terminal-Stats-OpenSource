@@ -13,7 +13,7 @@
 
 ## Usage
 
-1. Create a new repository using this template or click [here](https://github.com/yogeshwaran01/github-stats-terminal-style/generate) to create.
+1. Create a new repository using this template or click [here](https://github.com/ChinmayKaitade/github-stats-terminal-style/generate) to create.
 2. Create the personal access token. Checkout this [link](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token) to create a personal access token.
 3. Add a new repository secret to your repo. The name of the secret must be `GHT` and the value is your personal access token (PAT). Checkout this [link](https://docs.github.com/en/actions/reference/encrypted-secrets) to add a new repository secret.
 4. Enable `Allow GitHub Actions to create and approve pull requests` in General Action Settings
@@ -78,11 +78,11 @@ To use a random theme, do not specify any arguments.
 
 |                           **Theme Sample**                            | **Theme Name** |         **Theme Sample**        |  **ThemeName** |
 | :-------------------------------------------------------------------: | :------------: | :------------------------------:| :-------------: |
-|      <img align="center" src="https://cdn.jsdelivr.net/gh/yogeshwaran01/github-stats-terminal-style@latest/themes/ubuntu.svg" alt="ubuntu">      |     ubuntu     | <img align="center" src="https://cdn.jsdelivr.net/gh/yogeshwaran01/github-stats-terminal-style@latest/themes/hacker.svg" alt="hacker">  |   hacker   |
-|        <img align="center" src="https://cdn.jsdelivr.net/gh/yogeshwaran01/github-stats-terminal-style@latest/themes/atom.svg" alt="atom">        |      atom      | <img align="center" src="https://cdn.jsdelivr.net/gh/yogeshwaran01/github-stats-terminal-style@latest/themes/googledark.svg" alt="googledark">  |   googledark   |
-|     <img align="center" src="https://cdn.jsdelivr.net/gh/yogeshwaran01/github-stats-terminal-style@latest/themes/default.svg" alt="default">     |    default     | <img align="center" src="https://cdn.jsdelivr.net/gh/yogeshwaran01/github-stats-terminal-style@latest/themes/googlelight.svg" alt="googlelight"> |  googlelight   |
-|     <img align="center" src="https://cdn.jsdelivr.net/gh/yogeshwaran01/github-stats-terminal-style@latest/themes/dracula.svg" alt="dracula">     |    dracula     | <img align="center" src="https://cdn.jsdelivr.net/gh/yogeshwaran01/github-stats-terminal-style@latest/themes/monokai.svg" alt="monokai">     |    monokai     |
-|      <img align="center" src="https://cdn.jsdelivr.net/gh/yogeshwaran01/github-stats-terminal-style@latest/themes/github.svg" alt="github">      |     github     | <img align="center" src="https://cdn.jsdelivr.net/gh/yogeshwaran01/github-stats-terminal-style@latest/themes/powershell.svg" alt="powershell">  |   powershell   |
+|      <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/ubuntu.svg" alt="ubuntu">      |     ubuntu     | <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/hacker.svg" alt="hacker">  |   hacker   |
+|        <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/atom.svg" alt="atom">        |      atom      | <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/googledark.svg" alt="googledark">  |   googledark   |
+|     <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/default.svg" alt="default">     |    default     | <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/googlelight.svg" alt="googlelight"> |  googlelight   |
+|     <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/dracula.svg" alt="dracula">     |    dracula     | <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/monokai.svg" alt="monokai">     |    monokai     |
+|      <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/github.svg" alt="github">      |     github     | <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/powershell.svg" alt="powershell">  |   powershell   |
 
 ## Contributions
 
