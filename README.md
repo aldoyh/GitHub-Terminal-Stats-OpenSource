@@ -74,15 +74,19 @@ Currently only nine themes are available. The default theme is the ubuntu theme.
 node updater.js ${{ github.repository_owner }} <themeName>
 ```
 
-To use a random theme, do not specify any arguments.
+## 🎨 Themes
 
-|                           **Theme Sample**                            | **Theme Name** |         **Theme Sample**        |  **ThemeName** |
-| :-------------------------------------------------------------------: | :------------: | :------------------------------:| :-------------: |
-|      <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/ubuntu.svg" alt="ubuntu">      |     ubuntu     | <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/hacker.svg" alt="hacker">  |   hacker   |
-|        <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/atom.svg" alt="atom">        |      atom      | <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/googledark.svg" alt="googledark">  |   googledark   |
-|     <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/default.svg" alt="default">     |    default     | <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/googlelight.svg" alt="googlelight"> |  googlelight   |
-|     <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/dracula.svg" alt="dracula">     |    dracula     | <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/monokai.svg" alt="monokai">     |    monokai     |
-|      <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/github.svg" alt="github">      |     github     | <img align="center" src="https://cdn.jsdelivr.net/gh/ChinmayKaitade/github-stats-terminal-style@latest/themes/powershell.svg" alt="powershell">  |   powershell   |
+To use a random theme, simply omit any theme argument.
+
+| **Theme Sample** | **Theme Name** | **Theme Sample** | **Theme Name** |
+| :--------------: | :------------: | :--------------: | :------------: |
+| <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/ubuntu.svg" alt="ubuntu"> | ubuntu | <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/hacker.svg" alt="hacker"> | hacker |
+| <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/atom.svg" alt="atom"> | atom | <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/googledark.svg" alt="googledark"> | googledark |
+| <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/default.svg" alt="default"> | default | <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/googlelight.svg" alt="googlelight"> | googlelight |
+| <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/dracula.svg" alt="dracula"> | dracula | <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/monokai.svg" alt="monokai"> | monokai |
+| <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/github.svg" alt="github"> | github | <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/powershell.svg" alt="powershell"> | powershell |
+
+
 
 ## Contributions
 
