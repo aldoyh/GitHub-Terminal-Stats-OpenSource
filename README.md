@@ -1,97 +1,197 @@
-<h1 align='center'>GitHub Stats Terminal Style</h1>
-<p align='center'>Dynamically generate GitHub stats looking like a Terminal Interface </p>
+<h1 align="center">💻 GitHub Terminal Stats ⌨️</h1>
 
-<p align="center" >
-  <a href="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml">
-    <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ChinmayKaitade/GitHub-Terminal-Stats?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/forks/ChinmayKaitade/GitHub-Terminal-Stats?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/issues/ChinmayKaitade/GitHub-Terminal-Stats?style=for-the-badge&color=orange" />
 </p>
 
-<p align='center'>
-  <img align="center" src="./github_stats.svg">
+<p align="center">
+  ⚡ A cool terminal-style GitHub profile stats generator built using GitHub Actions and Node.js!  
 </p>
 
-## Usage
+<p align="center">
+  <img src="github_stats.svg" alt="GitHub Terminal Stats Preview" />
+</p>
 
-1. Create a new repository using this template or click [here](https://github.com/ChinmayKaitade/github-stats-terminal-style/generate) to create.
-2. Create the personal access token. Checkout this [link](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token) to create a personal access token.
-3. Add a new repository secret to your repo. The name of the secret must be `GHT` and the value is your personal access token (PAT). Checkout this [link](https://docs.github.com/en/actions/reference/encrypted-secrets) to add a new repository secret.
-4. Enable `Allow GitHub Actions to create and approve pull requests` in General Action Settings
+---
+
+## 🚀 Features
+
+- 📊 Displays terminal-style GitHub stats
+- 🕒 Auto-updates every day using GitHub Actions
+- 🧑‍💻 Fully customizable & lightweight
+- 🌐 No server or backend required
+
+---
+
+## 📦 Installation & Setup
+
+Follow these simple steps to set up **GitHub Terminal Stats** on your own profile:
+
+### 1️⃣ Fork This Repo
+
+Click the `⭐ Star` and then `🍴 Fork` this repository to your GitHub account.
+
+## 🛠 Usage
+
+## 🛠 Usage
+
+1️⃣ **Create a new repository** using this template → [Click Here 🚀](https://github.com/yogeshwaran01/github-stats-terminal-style/generate)  
+2️⃣ **Generate a Personal Access Token (PAT)** → [How-to Guide 🔑](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)  
+3️⃣ **Add a Repository Secret** named `GHT` with your PAT → [Guide 🔐](https://docs.github.com/en/actions/reference/encrypted-secrets)  
+4️⃣ **Enable** ✅ `Allow GitHub Actions to create and approve pull requests` in **General Action Settings**
+
+---
+
 <details>
-  <summary><b>&nbsp;&nbsp;More Details</b></summary>
+  <summary><b>📜 More Setup Details (Click to Expand)</b></summary>
   <br/>
-  <p> 
 
-### 🔑 Authentication & Permissions  
-To allow GitHub Actions to commit and push changes, follow these steps:
-### Setting Up Personal Access Token (PAT)  
-1️⃣ Go to **Settings** → **Developer settings** → **Personal access tokens**.  
-2️⃣ Click on **Generate a new token (classic)**.  
-3️⃣ Select the required scopes:  
-   - ✅ `repo` → Full control of private repositories.  
-   - ✅ `workflow` → Allows GitHub Actions to trigger workflows.
- 
-**⚠️ Important:** Copy the token as it will disappear once you leave the page.  
+### 🔑 Authentication & Permissions
 
-### Adding the Token as a Secret  
-1️⃣ Go to **Repository Settings** → **Secrets and Variables** → **Actions**.  
-2️⃣ Click **New Repository Secret**.  
-3️⃣ Name it **GHT** and paste the copied PAT in the input box.  
-4️⃣ Save it.  
+To allow **GitHub Actions** to commit and push changes automatically:
 
-**⚠️ Security Tip:** Never expose your PAT publicly. Store it securely as it grants repo modification permissions.  
+---
 
-### Grant Workflow Permissions  
-1️⃣ Go to your **GitHub Repository Settings**.  
-2️⃣ Navigate to **Actions** under **Code and Automation**.  
-3️⃣ Select **General** from the dropdown.  
-4️⃣ Scroll down to **Workflow Permissions**.  
-5️⃣ Choose **Read and write permissions**.  
-6️⃣ Save the settings. ✅  
+#### 🛠 Setting Up Personal Access Token (PAT)
 
----  
+1️⃣ Navigate to **⚙ Settings → Developer settings → Personal access tokens**  
+2️⃣ Click **Generate a new token (classic)**  
+3️⃣ Select the following scopes:
 
-## Running Workflows  
- **Manual Execution**  
-1️⃣ Navigate to the **Actions** tab in your repository.  
-2️⃣ Under **All Workflows**, select the `main.yml` file to run.  
-3️⃣ Click **Run Workflow** to manually trigger the workflow for testing.  
+- ✅ `repo` → Full control of repositories
+- ✅ `workflow` → Trigger & run GitHub Actions
 
- **Automated Execution**  
-The workflows are scheduled to run **automatically at defined UTC times**.  
-After a successful run, your generated files can be embedded into your **README** file. 📄 </p>
+⚠ **Important:** Copy your token now — you won’t be able to see it again!
+
+---
+
+#### 🔐 Adding the Token as a Secret
+
+1️⃣ Go to **Settings → Secrets and Variables → Actions**  
+2️⃣ Click **New Repository Secret**  
+3️⃣ **Name:** `GHT`  
+4️⃣ **Value:** Your copied PAT  
+5️⃣ Save ✅
+
+💡 **Security Tip:** Never share your PAT publicly — it can modify your repositories.
+
+---
+
+#### ⚙ Grant Workflow Permissions
+
+1️⃣ Go to **Settings → Actions → General**  
+2️⃣ Scroll to **Workflow Permissions**  
+3️⃣ Select **Read and write permissions**  
+4️⃣ Enable **Allow GitHub Actions to create and approve pull requests**  
+5️⃣ Save ✅
+
+---
+
+### 🏃 Running Workflows
+
+#### ▶ Manual Execution
+
+1️⃣ Go to the **Actions** tab  
+2️⃣ Select the `main.yml` workflow  
+3️⃣ Click **Run Workflow** 🖱
+
+#### ⏱ Automated Execution
+
+- Runs **daily at 2:47 UTC** 🕑
+- Change schedule in `/.github/workflows/main.yml` → Use [Cron Generator ⏳](https://crontab.guru/)
+
+---
 
 </details>
 
+---
 
-The file `github_stats.svg` is an svg image of your github stats. You can copy the link of the image and use it anywhere. By default it updates daily at `2:47 UTC`. You can also change this by changing the cron in `/.github/workflows/main.yml` by using [Cron Generator](https://crontab.guru/).
+### 🖼️ Add SVG to Your Profile README
 
-## Themes
+Add the following Markdown to your profile `README.md`:
 
-Currently only nine themes are available. The default theme is the ubuntu theme. You can change the theme by changing the command in `/.github/workflows/main.yml`.
-
-```bash
-node updater.js ${{ github.repository_owner }} <themeName>
+```md
+![GitHub Terminal Stats](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats/github_stats.svg)
 ```
 
-## 🎨 Themes
+> Tip: Replace `ChinmayKaitade` with your GitHub username if needed.
 
-To use a random theme, simply omit any theme argument.
+---
 
-| **Theme Sample** | **Theme Name** | **Theme Sample** | **Theme Name** |
-| :--------------: | :------------: | :--------------: | :------------: |
-| <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/ubuntu.svg" alt="ubuntu"> | ubuntu | <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/hacker.svg" alt="hacker"> | hacker |
-| <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/atom.svg" alt="atom"> | atom | <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/googledark.svg" alt="googledark"> | googledark |
-| <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/default.svg" alt="default"> | default | <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/googlelight.svg" alt="googlelight"> | googlelight |
-| <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/dracula.svg" alt="dracula"> | dracula | <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/monokai.svg" alt="monokai"> | monokai |
-| <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/github.svg" alt="github"> | github | <img align="center" src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/powershell.svg" alt="powershell"> | powershell |
+## 🎨 Themes Available
 
+You can choose from a variety of themes to style your terminal stats:
 
+| Theme Name    | Preview                                                                                                                        |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| `ubuntu`      | ![Ubuntu](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/ubuntu.svg)            |
+| `hacker`      | ![Hacker](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/hacker.svg)            |
+| `atom`        | ![Atom](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/atom.svg)                |
+| `googledark`  | ![Google Dark](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/googledark.svg)   |
+| `default`     | ![Default](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/default.svg)          |
+| `googlelight` | ![Google Light](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/googlelight.svg) |
+| `dracula`     | ![Dracula](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/dracula.svg)          |
+| `monokai`     | ![Monokai](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/monokai.svg)          |
+| `github`      | ![GitHub](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/github.svg)            |
+| `powershell`  | ![Powershell](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/powershell.svg)    |
 
-## Contributions
+> 📝 You can preview more by editing the `config.js` file and setting different theme names.
 
-Contributions, issue and pull requests are welcome
+---
 
-## Credits
+## 🙌 Contributing
 
-Svg Generated from [termtosvg](https://github.com/nbedos/termtosvg)
+Want to make this even cooler?
+Feel free to submit issues or pull requests. Suggestions and improvements are always welcome!
+
+```bash
+git clone https://github.com/ChinmayKaitade/GitHub-Terminal-Stats.git
+cd GitHub-Terminal-Stats
+npm install
+npm run dev
+```
+
+---
+
+## ☕ Support & Sponsor
+
+If you like this project and want to support its development:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor%20Project-💖-red?style=for-the-badge)](https://github.com/sponsors/ChinmayKaitade)
+
+---
+
+## 🔗 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chinmay-sharad-kaitade" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chinmaykaitade123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/chinmaydotcom" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/ChinmayKaitade" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://chinmaykaitadeportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@chinmaykaitade" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+---
+
+> Made with ❤️ by Chinmay Kaitade
