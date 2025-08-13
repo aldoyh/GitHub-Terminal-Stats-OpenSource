@@ -1,4 +1,4 @@
-<h1 align="center">💻 GitHub Terminal Stats ⌨️</h1>
+<h1 align="center">💻 GitHub Terminal Stats - OpenSource Project ⌨️</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/ChinmayKaitade/GitHub-Terminal-Stats?style=for-the-badge&color=yellow" />
@@ -111,7 +111,7 @@ To allow **GitHub Actions** to commit and push changes automatically:
 Add the following Markdown to your profile `README.md`:
 
 ```md
-![GitHub Terminal Stats](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats/github_stats.svg)
+![GitHub Terminal Stats](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-OpenSource/github_stats.svg)
 ```
 
 > Tip: Replace `ChinmayKaitade` with your GitHub username if needed.
@@ -128,51 +128,51 @@ You can choose from a variety of themes to style your terminal stats:
   <tr>
     <td align="center" width="50%">
       <strong>ubuntu</strong><br/>
-      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/ubuntu.svg" alt="ubuntu theme preview" />
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-OpenSource/master/themes/ubuntu.svg" alt="ubuntu theme preview" />
     </td>
     <td align="center" width="50%">
       <strong>hacker</strong><br/>
-      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/hacker.svg" alt="hacker theme preview" />
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-OpenSource/master/themes/hacker.svg" alt="hacker theme preview" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>atom</strong><br/>
-      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/atom.svg" alt="atom theme preview" />
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-OpenSource/master/themes/atom.svg" alt="atom theme preview" />
     </td>
     <td align="center">
       <strong>googledark</strong><br/>
-      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/googledark.svg" alt="googledark theme preview" />
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-OpenSource/master/themes/googledark.svg" alt="googledark theme preview" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>default</strong><br/>
-      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/default.svg" alt="default theme preview" />
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-OpenSource/master/themes/default.svg" alt="default theme preview" />
     </td>
     <td align="center">
       <strong>googlelight</strong><br/>
-      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/googlelight.svg" alt="googlelight theme preview" />
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-OpenSource/master/themes/googlelight.svg" alt="googlelight theme preview" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>dracula</strong><br/>
-      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/dracula.svg" alt="dracula theme preview" />
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-OpenSource/master/themes/dracula.svg" alt="dracula theme preview" />
     </td>
     <td align="center">
       <strong>monokai</strong><br/>
-      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/monokai.svg" alt="monokai theme preview" />
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-OpenSource/master/themes/monokai.svg" alt="monokai theme preview" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>github</strong><br/>
-      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/github.svg" alt="github theme preview" />
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-OpenSource/master/themes/github.svg" alt="github theme preview" />
     </td>
     <td align="center">
       <strong>powershell</strong><br/>
-      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/powershell.svg" alt="powershell theme preview" />
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-OpenSource/master/themes/powershell.svg" alt="powershell theme preview" />
     </td>
   </tr>
 </table>
