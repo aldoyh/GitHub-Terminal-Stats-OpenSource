@@ -35,8 +35,6 @@ Click the `⭐ Star` and then `🍴 Fork` this repository to your GitHub account
 
 ## 🛠 Usage
 
-## 🛠 Usage
-
 1️⃣ **Create a new repository** using this template → [Click Here 🚀](https://github.com/yogeshwaran01/github-stats-terminal-style/generate)  
 2️⃣ **Generate a Personal Access Token (PAT)** → [How-to Guide 🔑](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)  
 3️⃣ **Add a Repository Secret** named `GHT` with your PAT → [Guide 🔐](https://docs.github.com/en/actions/reference/encrypted-secrets)  
