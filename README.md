@@ -122,18 +122,65 @@ Add the following Markdown to your profile `README.md`:
 
 You can choose from a variety of themes to style your terminal stats:
 
-| Theme Name    | Preview                                                                                                                        |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| `ubuntu`      | ![Ubuntu](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/ubuntu.svg)            |
-| `hacker`      | ![Hacker](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/hacker.svg)            |
-| `atom`        | ![Atom](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/atom.svg)                |
-| `googledark`  | ![Google Dark](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/googledark.svg)   |
-| `default`     | ![Default](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/default.svg)          |
-| `googlelight` | ![Google Light](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/googlelight.svg) |
-| `dracula`     | ![Dracula](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/dracula.svg)          |
-| `monokai`     | ![Monokai](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/monokai.svg)          |
-| `github`      | ![GitHub](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/github.svg)            |
-| `powershell`  | ![Powershell](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/powershell.svg)    |
+## 🎨 Themes Available
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>ubuntu</strong><br/>
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/ubuntu.svg" alt="ubuntu theme preview" />
+    </td>
+    <td align="center" width="50%">
+      <strong>hacker</strong><br/>
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/hacker.svg" alt="hacker theme preview" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>atom</strong><br/>
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/atom.svg" alt="atom theme preview" />
+    </td>
+    <td align="center">
+      <strong>googledark</strong><br/>
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/googledark.svg" alt="googledark theme preview" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>default</strong><br/>
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/default.svg" alt="default theme preview" />
+    </td>
+    <td align="center">
+      <strong>googlelight</strong><br/>
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/googlelight.svg" alt="googlelight theme preview" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>dracula</strong><br/>
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/dracula.svg" alt="dracula theme preview" />
+    </td>
+    <td align="center">
+      <strong>monokai</strong><br/>
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/monokai.svg" alt="monokai theme preview" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>github</strong><br/>
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/github.svg" alt="github theme preview" />
+    </td>
+    <td align="center">
+      <strong>powershell</strong><br/>
+      <img src="https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-Template/master/themes/powershell.svg" alt="powershell theme preview" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  🚀 <b>More themes coming soon!</b>  
+  ⭐ Star and 🍴 Fork this repo to get the latest updates instantly.
+</p>
 
 > 📝 You can preview more by editing the `config.js` file and setting different theme names.
 
