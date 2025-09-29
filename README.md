@@ -1,4 +1,4 @@
-<h1 align="center">💻 GitHub Terminal Stats - OpenSource Project ⌨️</h1>
+<h1 align="center">💻 إحصائيات GitHub بتصميم الطرفية - مشروع مفتوح المصدر ⌨️</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/ChinmayKaitade/GitHub-Terminal-Stats?style=for-the-badge&color=yellow" />
@@ -7,38 +7,38 @@
 </p>
 
 <p align="center">
-  ⚡ A cool terminal-style GitHub profile stats generator built using GitHub Actions and Node.js!  
+  ⚡ مولد إحصائيات ملف GitHub الشخصي بأسلوب الطرفية الرائع باستخدام GitHub Actions و Node.js!  
 </p>
 
 <p align="center">
-  <img src="github_stats.svg" alt="GitHub Terminal Stats Preview" />
+  <img src="github_stats.svg" alt="معاينة إحصائيات GitHub بتصميم الطرفية" />
 </p>
 
 ---
 
-## 🚀 Features
+## 🚀 المميزات
 
-- 📊 Displays terminal-style GitHub stats
-- 🕒 Auto-updates every day using GitHub Actions
-- 🧑‍💻 Fully customizable & lightweight
-- 🌐 No server or backend required
+- 📊 يعرض إحصائيات GitHub بنمط الطرفية
+- 🕒 يحدث تلقائياً كل يوم باستخدام GitHub Actions
+- 🧑‍💻 قابل للتخصيص بالكامل وخفيف الوزن
+- 🌐 لا يتطلب خادم أو خلفية
 
 ---
 
-## 📦 Installation & Setup
+## 📦 التثبيت والإعداد
 
-Follow these simple steps to set up **GitHub Terminal Stats** on your own profile:
+اتبع هذه الخطوات البسيطة لإعداد **إحصائيات GitHub بتصميم الطرفية** في ملفك الشخصي:
 
-### 1️⃣ Fork This Repo
+### 1️⃣ عمل نسخة من هذا المستودع
 
-Click the `⭐ Star` and then `🍴 Fork` this repository to your GitHub account.
+اضغط على `⭐ Star` ثم `🍴 Fork` لعمل نسخة من هذا المستودع إلى حسابك على GitHub.
 
-## 🛠 Usage
+## 🛠 الاستخدام
 
-1️⃣ **Create a new repository** using this template → [Click Here 🚀](https://github.com/yogeshwaran01/github-stats-terminal-style/generate)  
-2️⃣ **Generate a Personal Access Token (PAT)** → [How-to Guide 🔑](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)  
-3️⃣ **Add a Repository Secret** named `GHT` with your PAT → [Guide 🔐](https://docs.github.com/en/actions/reference/encrypted-secrets)  
-4️⃣ **Enable** ✅ `Allow GitHub Actions to create and approve pull requests` in **General Action Settings**
+1️⃣ **إنشاء مستودع جديد** باستخدام هذا القالب → [اضغط هنا 🚀](https://github.com/yogeshwaran01/github-stats-terminal-style/generate)  
+2️⃣ **إنشاء رمز وصول شخصي (PAT)** → [دليل التعليمات 🔑](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)  
+3️⃣ **إضافة سر المستودع** بإسم `GHT` مع رمز PAT الخاص بك → [الدليل 🔐](https://docs.github.com/en/actions/reference/encrypted-secrets)  
+4️⃣ **تمكين** ✅ `السماح لـ GitHub Actions بإنشاء وقبول طلبات السحب` في **إعدادات العمل العامة**
 
 ---
 
@@ -87,18 +87,18 @@ To allow **GitHub Actions** to commit and push changes automatically:
 
 ---
 
-### 🏃 Running Workflows
+### 🏃 تشغيل سير العمل
 
-#### ▶ Manual Execution
+#### ▶ التنفيذ اليدوي
 
-1️⃣ Go to the **Actions** tab  
-2️⃣ Select the `main.yml` workflow  
-3️⃣ Click **Run Workflow** 🖱
+1️⃣ اذهب إلى تبويب **Actions**  
+2️⃣ اختر سير عمل `main.yml`  
+3️⃣ اضغط على **Run Workflow** 🖱
 
-#### ⏱ Automated Execution
+#### ⏱ التنفيذ التلقائي
 
-- Runs **daily at 2:47 UTC** 🕑
-- Change schedule in `/.github/workflows/main.yml` → Use [Cron Generator ⏳](https://crontab.guru/)
+- يعمل **يومياً في الساعة 2:47 UTC** 🕑
+- غير الجدولة في `/.github/workflows/main.yml` ← استخدم [مولد Cron ⏳](https://crontab.guru/)
 
 ---
 
@@ -106,23 +106,21 @@ To allow **GitHub Actions** to commit and push changes automatically:
 
 ---
 
-### 🖼️ Add SVG to Your Profile README
+### 🖼️ إضافة SVG إلى ملف README الشخصي
 
-Add the following Markdown to your profile `README.md`:
+أضف Markdown التالي إلى ملف `README.md` الشخصي:
 
 ```md
 ![GitHub Terminal Stats](https://raw.githubusercontent.com/ChinmayKaitade/GitHub-Terminal-Stats-OpenSource/github_stats.svg)
 ```
 
-> Tip: Replace `ChinmayKaitade` with your GitHub username if needed.
+> نصيحة: استبدل `ChinmayKaitade` باسم المستخدم الخاص بك على GitHub إذا لزم الأمر.
 
 ---
 
-## 🎨 Themes Available
+## 🎨 القوالب المتاحة
 
-You can choose from a variety of themes to style your terminal stats:
-
-## 🎨 Themes Available
+يمكنك اختيار من مجموعة متنوعة من القوالب لتخصيص إحصائياتك بشكل الطرفية:
 
 <table>
   <tr>
@@ -186,10 +184,10 @@ You can choose from a variety of themes to style your terminal stats:
 
 ---
 
-## 🙌 Contributing
+## 🙌 المساهمة
 
-Want to make this even cooler?
-Feel free to submit issues or pull requests. Suggestions and improvements are always welcome!
+تريد جعل هذا أكثر روعة؟  
+لا تتردد في تقديم القضايا أو طلبات السحب. الاقتراحات والتحسينات مرحب بها دائماً!
 
 ```bash
 git clone https://github.com/ChinmayKaitade/GitHub-Terminal-Stats.git
@@ -200,9 +198,9 @@ npm run dev
 
 ---
 
-## ☕ Support & Sponsor
+## ☕ الدعم والرعاية
 
-If you like this project and want to support its development:
+إذا أعجبك هذا المشروع وتريد دعم تطويره:
 
 [![Sponsor](https://img.shields.io/badge/Sponsor%20Project-💖-red?style=for-the-badge)](https://github.com/sponsors/ChinmayKaitade)
 
@@ -233,10 +231,10 @@ If you like this project and want to support its development:
 
 ---
 
-## 📄 License
+## 📄 الترخيص
 
-This project is licensed under the [MIT License](./LICENSE).
+هذا المشروع مرخص تحت [ترخيص MIT](./LICENSE).
 
 ---
 
-> Made with ❤️ by Chinmay Kaitade
+> صُنع بـ ❤️ بواسطة Chinmay Kaitade
