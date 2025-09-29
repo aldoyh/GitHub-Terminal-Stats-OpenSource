@@ -184,10 +184,10 @@ To allow **GitHub Actions** to commit and push changes automatically:
 
 ---
 
-## 🙌 Contributing
+## 🙌 المساهمة
 
-Want to make this even cooler?
-Feel free to submit issues or pull requests. Suggestions and improvements are always welcome!
+تريد جعل هذا أكثر روعة؟  
+لا تتردد في تقديم القضايا أو طلبات السحب. الاقتراحات والتحسينات مرحب بها دائماً!
 
 ```bash
 git clone https://github.com/ChinmayKaitade/GitHub-Terminal-Stats.git
@@ -198,9 +198,9 @@ npm run dev
 
 ---
 
-## ☕ Support & Sponsor
+## ☕ الدعم والرعاية
 
-If you like this project and want to support its development:
+إذا أعجبك هذا المشروع وتريد دعم تطويره:
 
 [![Sponsor](https://img.shields.io/badge/Sponsor%20Project-💖-red?style=for-the-badge)](https://github.com/sponsors/ChinmayKaitade)
 
@@ -231,10 +231,10 @@ If you like this project and want to support its development:
 
 ---
 
-## 📄 License
+## 📄 الترخيص
 
-This project is licensed under the [MIT License](./LICENSE).
+هذا المشروع مرخص تحت [ترخيص MIT](./LICENSE).
 
 ---
 
-> Made with ❤️ by Chinmay Kaitade
+> صُنع بـ ❤️ بواسطة Chinmay Kaitade

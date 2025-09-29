@@ -5,8 +5,9 @@
             <termtosvg:animation type="css" />
         </termtosvg:template_settings>
         <style type="text/css" id="generated-style">
+            @import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700&display=swap');
             <![CDATA[#screen {
-                font-family: Tilt Neon, Fira Code, Comic Sans Ms, "DejaVu Sans Mono", monospace;
+                font-family: 'Tajawal', 'Tilt Neon', 'Fira Code', 'Comic Sans Ms', 'DejaVu Sans Mono', monospace;
                 font-style: normal;
                 font-size: 14px;
             }
@@ -75,23 +76,23 @@
             /* The colors defined below are the default 16 colors used for rendering text of the terminal. Adjust
                them as needed.
                gjm8 color theme (source: https://terminal.sexy/) */
-            .foreground {fill: #F8F8F2}
-            .background {fill: #282A36}
+            .foreground {fill: #ffffff}
+            .background {fill: #300a24}
             .color0 {fill: #272822}
             .color1 {fill: #f92672}
-            .green {fill: #50fa7b}
+            .green {fill: #ffffff}
             .color3 {fill: #f4bf75}
             .color4 {fill: #66d9ef}
-            .purple {fill: #bd93f9}
-            .color6 {fill: #8be9fd}
+            .purple {fill: #ffffff}
+            .color6 {fill: #ffffff}
             .color7 {fill: #f8f8f2}
             .color8 {fill: #75715e}
             .color9 {fill: #fd971f}
-            .color10 {fill: #E356A7}
+            .color10 {fill: #5cbe09}
             .color11 {fill: #49483e}
-            .color12 {fill: #F8F8F2}
+            .color12 {fill: #ffffff}
             .color13 {fill: #f5f4f1}
-            .orange {fill: #ffb86c}
+            .orange {fill: #ffffff}
             .color15 {fill: #f9f8f5}
         </style>
     </defs>
@@ -103,153 +104,153 @@
         <rect class="background" height="100%" width="100%" x="0" y="0" />
         <defs>
             <g id="g1">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="16" class="foreground">$ </text>
                 <text x="160" textLength="8" class="background"></text>
             </g>
             <g id="g2">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="24" class="foreground">$ w</text>
+                <text x="144" textLength="24" class="foreground">$ م</text>
                 <text x="168" textLength="8" class="background"></text>
             </g>
             <g id="g3">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="32" class="foreground">$ wh</text>
+                <text x="144" textLength="32" class="foreground">$ من</text>
                 <text x="176" textLength="8" class="background"></text>
             </g>
             <g id="g4">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="40" class="foreground">$ who</text>
+                <text x="144" textLength="40" class="foreground">$ من_</text>
                 <text x="184" textLength="8" class="background"></text>
             </g>
             <g id="g5">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="48" class="foreground">$ whoa</text>
+                <text x="144" textLength="48" class="foreground">$ من_أ</text>
                 <text x="192" textLength="8" class="background"></text>
             </g>
             <g id="g6">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="56" class="foreground">$ whoam</text>
+                <text x="144" textLength="56" class="foreground">$ من_أن</text>
                 <text x="200" textLength="8" class="background"></text>
             </g>
             <g id="g7">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="64" class="foreground">$ whoami</text>
+                <text x="144" textLength="64" class="foreground">$ من_أنا</text>
                 <text x="208" textLength="8" class="background"></text>
             </g>
             <g id="g8">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="64" class="foreground">$ whoami</text>
+                <text x="144" textLength="64" class="foreground">$ من_أنا</text>
             </g>
             <g id="g9">
                 <text x="0" textLength="8" class="background"></text>
             </g>
             <g id="g10">
-                <text x="0" textLength="104" class="color6">Chinmay Kaitade</text>
+                <text x="0" textLength="104" class="color6">المطور العربي</text>
             </g>
             <g id="g11">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="24" class="foreground">$ g</text>
                 <text x="168" textLength="8" class="background"></text>
             </g>
             <g id="g12">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="32" class="foreground">$ gi</text>
                 <text x="176" textLength="8" class="background"></text>
             </g>
             <g id="g13">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="40" class="foreground">$ git</text>
+                <text x="144" textLength="40" class="foreground">$ جت</text>
                 <text x="184" textLength="8" class="background"></text>
             </g>
             <g id="g14">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="48" class="foreground">$ git </text>
+                <text x="144" textLength="48" class="foreground">$ جت </text>
                 <text x="192" textLength="8" class="background"></text>
             </g>
             <g id="g15">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="56" class="foreground">$ git s</text>
+                <text x="144" textLength="56" class="foreground">$ جت ح</text>
                 <text x="200" textLength="8" class="background"></text>
             </g>
             <g id="g16">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="64" class="foreground">$ git st</text>
+                <text x="144" textLength="64" class="foreground">$ جت حا</text>
                 <text x="208" textLength="8" class="background"></text>
             </g>
             <g id="g17">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="72" class="foreground">$ git sta</text>
+                <text x="144" textLength="72" class="foreground">$ جت حال</text>
                 <text x="216" textLength="8" class="background"></text>
             </g>
             <g id="g18">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="80" class="foreground">$ git stat</text>
+                <text x="144" textLength="80" class="foreground">$ جت حالة</text>
                 <text x="224" textLength="8" class="background"></text>
             </g>
             <g id="g19">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="88" class="foreground">$ git statu</text>
+                <text x="144" textLength="88" class="foreground">$ جت حالة</text>
                 <text x="232" textLength="8" class="background"></text>
             </g>
             <g id="g20">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="96" class="foreground">$ git status</text>
+                <text x="144" textLength="96" class="foreground">$ جت حالة</text>
                 <text x="240" textLength="8" class="background"></text>
             </g>
             <g id="g21">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="96" class="foreground">$ git status</text>
+                <text x="144" textLength="96" class="foreground">$ جت حالة</text>
             </g>
             <g id="g22">
-                <text x="0" textLength="240" font-style="italic" class="foreground">        GitHub Status         </text>
+                <text x="0" textLength="240" font-style="italic" class="foreground">        حالة GitHub         </text>
             </g>
             <g id="g23">
                 <text x="0" textLength="240" class="foreground">&#9556;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9572;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9559;</text>
             </g>
             <g id="g24">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
-                <text x="8" textLength="120" font-weight="bold" class="orange"> Title         </text>
+                <text x="8" textLength="120" font-weight="bold" class="orange"> العنوان         </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" font-weight="bold" class="orange"> Count      </text>
+                <text x="136" textLength="96" font-weight="bold" class="orange"> العدد      </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g25">
@@ -257,150 +258,150 @@
             </g>
             <g id="g26">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
-                <text x="8" textLength="120" class="purple"> Stars         </text>
+                <text x="8" textLength="120" class="purple"> النجوم         </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 343        </text>
+                <text x="136" textLength="96" class="green">   1234    </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g27">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
-                <text x="8" textLength="120" class="purple"> Forks         </text>
+                <text x="8" textLength="120" class="purple"> المتفرعات         </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 33         </text>
+                <text x="136" textLength="96" class="green">   567     </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g28">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
-                <text x="8" textLength="120" class="purple"> Commits       </text>
+                <text x="8" textLength="120" class="purple"> الكوميت       </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 7789       </text>
+                <text x="136" textLength="96" class="green">   890     </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g29">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
-                <text x="8" textLength="120" class="purple"> Followers     </text>
+                <text x="8" textLength="120" class="purple"> المتابعين     </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 2737       </text>
+                <text x="136" textLength="96" class="green">   321    </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g30">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
-                <text x="8" textLength="120" class="purple"> Pull Requests </text>
+                <text x="8" textLength="120" class="purple"> طلبات السحب </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 5          </text>
+                <text x="136" textLength="96" class="green">   45      </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g31">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
-                <text x="8" textLength="120" class="purple"> Issues        </text>
+                <text x="8" textLength="120" class="purple"> القضايا        </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 1          </text>
+                <text x="136" textLength="96" class="green">   12      </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g32">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
-                <text x="8" textLength="120" class="purple"> Repository    </text>
+                <text x="8" textLength="120" class="purple"> المستودعات    </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 77         </text>
+                <text x="136" textLength="96" class="green">   23      </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g33">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
-                <text x="8" textLength="120" class="purple"> Gists         </text>
+                <text x="8" textLength="120" class="purple"> الجيست         </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 0          </text>
+                <text x="136" textLength="96" class="green">   5       </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g34">
                 <text x="0" textLength="240" class="foreground">&#9562;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9575;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9565;</text>
             </g>
             <g id="g35">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="24" class="foreground">$ u</text>
                 <text x="168" textLength="8" class="background"></text>
             </g>
             <g id="g36">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="32" class="foreground">$ up</text>
+                <text x="144" textLength="32" class="foreground">$ مد</text>
                 <text x="176" textLength="8" class="background"></text>
             </g>
             <g id="g37">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="40" class="foreground">$ upt</text>
+                <text x="144" textLength="40" class="foreground">$ مدة</text>
                 <text x="184" textLength="8" class="background"></text>
             </g>
             <g id="g38">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="48" class="foreground">$ upti</text>
+                <text x="144" textLength="48" class="foreground">$ مدة_</text>
                 <text x="192" textLength="8" class="background"></text>
             </g>
             <g id="g39">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="56" class="foreground">$ uptim</text>
+                <text x="144" textLength="56" class="foreground">$ مدة_ت</text>
                 <text x="200" textLength="8" class="background"></text>
             </g>
             <g id="g40">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="64" class="foreground">$ uptime</text>
+                <text x="144" textLength="64" class="foreground">$ مدة_تشغيل</text>
                 <text x="208" textLength="8" class="background"></text>
             </g>
             <g id="g41">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="64" class="foreground">$ uptime</text>
+                <text x="144" textLength="64" class="foreground">$ مدة_تشغيل</text>
             </g>
             <g id="g42">
-                <text x="0" textLength="32" font-weight="bold" class="orange">1916</text>
+                <text x="0" textLength="32" font-weight="bold" class="orange">365 أيام</text>
             </g>
             <g id="g43">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="24" class="foreground">$ e</text>
+                <text x="144" textLength="24" class="foreground">$ خ</text>
                 <text x="168" textLength="8" class="background"></text>
             </g>
             <g id="g44">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="32" class="foreground">$ ex</text>
+                <text x="144" textLength="32" class="foreground">$ خر</text>
                 <text x="176" textLength="8" class="background"></text>
             </g>
             <g id="g45">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="40" class="foreground">$ exi</text>
+                <text x="144" textLength="40" class="foreground">$ خرو</text>
                 <text x="184" textLength="8" class="background"></text>
             </g>
             <g id="g46">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="48" class="foreground">$ exit</text>
+                <text x="144" textLength="48" class="foreground">$ خروج</text>
                 <text x="192" textLength="8" class="background"></text>
             </g>
             <g id="g47">
-                <text x="0" textLength="128" font-weight="bold" class="color10">ChinmayKaitade</text>
+                <text x="0" textLength="128" font-weight="bold" class="color10">مطور_عربي@github.com</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
-                <text x="144" textLength="48" class="foreground">$ exit</text>
+                <text x="144" textLength="48" class="foreground">$ خروج</text>
             </g>
             <g id="g48">
-                <text x="0" textLength="32" class="foreground">exit</text>
+                <text x="0" textLength="32" class="foreground">خروج</text>
             </g>
         </defs>
         <g id="screen_view">
